@@ -19,7 +19,7 @@ The script `bootstrap_radiomics_classifier.py` exploits the extracted radiomic f
 
 ## Code Contributors
 
-This work is part of the project MSxplain, and has been published in MICCAI2024 proceedings (iMIMIC workshop).
+This work is part of the project MSxplain, and has been accepted for publication in MICCAI2024 proceedings (iMIMIC workshop).
 
 ## Author
 
