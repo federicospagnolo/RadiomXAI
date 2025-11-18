@@ -19,7 +19,7 @@ The script `bootstrap_radiomics_classifier.py` exploits the extracted radiomic f
 
 ## Code Contributors
 
-This work is part of the project MSxplain, and has been accepted for publication in MICCAI2024 proceedings (iMIMIC workshop).
+This work is part of the project [MSxplain](https://wp.unil.ch/mial/research/projects/msxplain/), and has been published as [conference paper](https://link.springer.com/chapter/10.1007/978-3-031-77610-6_12) in MICCAI2024 proceedings (iMIMIC workshop).
 
 ## Author
 
@@ -30,5 +30,6 @@ This work is part of the project MSxplain, and has been accepted for publication
 
 ## References
 
-1. Spagnolo, F., Molchanova, N., Schaer, R., Bach Cuadra, M., Ocampo Pineda,M., Melie-Garcia, L., Granziera, C., Andrearczyk, V., Depeursinge, A.: Instance-level quantitative saliency in multiple sclerosis lesion segmentation. arXiv (2024). https://doi.org/10.48550/ARXIV.2406.09335
-2. van Griethuysen, J. J. M., Fedorov, A., Parmar, C., Hosny, A., Aucoin, N., Narayan, V., Beets-Tan, R. G. H., Fillon-Robin, J. C., Pieper, S., Aerts, H. J. W. L. (2017). Computational Radiomics System to Decode the Radiographic Phenotype. Cancer Research, 77(21), e104–e107. https://doi.org/10.1158/0008-5472.CAN-17-0339
+1. Spagnolo, F. et al. Exploiting XAI Maps to Improve MS Lesion Segmentation and Detection in MRI. In Celebi, M. E., Reyes, M., Chen, Z. & Li, X. (eds.) Medical Image Computing and Computer Assisted Intervention – MICCAI 2024 Workshops, 121–131, DOI: 10.1007/978-3-031-77610-6_12 (Springer Nature Switzerland, Cham, 2025).
+2. Spagnolo, F., Molchanova, N., Schaer, R., Bach Cuadra, M., Ocampo Pineda,M., Melie-Garcia, L., Granziera, C., Andrearczyk, V., Depeursinge, A.: Instance-level quantitative saliency in multiple sclerosis lesion segmentation. arXiv (2024). DOI: 10.48550/ARXIV.2406.09335
+3. van Griethuysen, J. J. M., Fedorov, A., Parmar, C., Hosny, A., Aucoin, N., Narayan, V., Beets-Tan, R. G. H., Fillon-Robin, J. C., Pieper, S., Aerts, H. J. W. L. (2017). Computational Radiomics System to Decode the Radiographic Phenotype. Cancer Research, 77(21), e104–e107. DOI: 10.1158/0008-5472.CAN-17-0339
