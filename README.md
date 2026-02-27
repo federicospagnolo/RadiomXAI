@@ -1,6 +1,6 @@
 <h1 align="center">RadiomXAI </h1>
 
-> Scripts to improve classification results, exploiting radiomic features of XAI maps (e.g., saliency).<br /> `RadiomXAI` can significantly boost performances of machine learning networks, which operate on medical imaging (tested on MRI), by increasing the F1 score.
+> Scripts to improve classification results, exploiting radiomic features of XAI maps (e.g., saliency).<br /> `RadiomXAI` can significantly boost performance of machine learning networks, which operate on medical imaging (tested on MRI), by increasing the F1 score.
 
 ## 🚀 Usage
 
